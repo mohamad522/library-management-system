@@ -47,7 +47,10 @@ click next
 choose the directory where you downloaded the project (ex. /home/user/downloads)
 Finish
 
-now edit the connection file (see next slide)
+now edit the connection file:
+  In this file; Library/src/(default package)/DB.java:
+  edit getConnection() function to connect to your mysql database via username and password:
+  con=DriverManager.getConnection("jdbc:mysql://localhost:3306/test","<username>","<password>");
 
 run the code in eclipse
 
