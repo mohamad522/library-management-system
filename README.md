@@ -1,7 +1,7 @@
 # library-management-system
 Requirements:
 
-  JDK 17 - https://www.eclipse.org/downloads/
+  JDK 17 - https://www.oracle.com/java/technologies/downloads/
   
   eclipse - https://www.eclipse.org/downloads/
   
